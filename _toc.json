@@ -20,12 +20,14 @@
         {
           "title": "Stalltierhaltung",
           "slug": "Tierhaltung/Stall",
-          "link": "Tierhaltung/Stall.md"
+          "link": "Tierhaltung/Stall.md",
+          "seeAlso": "Haustierhaltung"
         },
         {
           "title": "Haustierhaltung",
           "slug": "Tierhaltung/Haustiere",
-          "link": "Tierhaltung/Haustiere.md"
+          "link": "Tierhaltung/Haustiere.md",
+          "seeAlso": "Stalltierhaltung"
         }
       ]
     }
