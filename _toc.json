@@ -15,18 +15,17 @@
     },
     {
       "title": "Tierhaltung",
-      "slug": "/Tierhaltung",
-      "link": "home.md",
+      "slug": "Tierhaltung",
       "topics": [
         {
           "title": "Stalltierhaltung",
-          "slug": "/Tierhaltung/Stall",
-          "slug": "Tierhaltung/Stall.md"
+          "slug": "Tierhaltung/Stall",
+          "link": "Tierhaltung/Stall.md"
         },
         {
           "title": "Haustierhaltung",
-          "slug": "/Tierhaltung/Haustiere",
-          "slug": "Tierhaltung/Haustiere.md"
+          "slug": "Tierhaltung/Haustiere",
+          "link": "Tierhaltung/Haustiere.md"
         }
       ]
     }
