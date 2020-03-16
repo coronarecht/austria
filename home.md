@@ -1,8 +1,8 @@
-# Coronavirus - Die Rechtliche Situation in Oesterreich
+# Coronavirus - Die Rechtliche Situation in Österreich
 
-Haben Sie rechtliche Fragen zur aktuellen Situation rund um den Coronavirus? Z.B. ueber das Epidemiegesetz, oder welche Auswirkungen diverse Massnahmen auf Sie oder Ihre Firma haben?
+Haben Sie rechtliche Fragen zur aktuellen Situation rund um den Coronavirus? Beispielsweise welche Auswirkungen diverse Maßnahmen auf Sie oder Ihre Firma haben?
 
-Wir versuchen diese Fragen hier zu beantworten und rufen auch andere Rechtsanwaelte dazu auf ihr Know-How hier kostenlost zur Verfuegung zu stellen.
+Wir versuchen diese Fragen hier zu beantworten und rufen auch andere Rechtsanwälte dazu auf ihr Know-How hier kostenlos zur Verfuegung zu stellen.
 
-> Diese Seite ist eine Initiative von Rechtsanwältin Frau Mag. Unterrainer, in Kooperation mit EPS Software und KavaDocs. Bei weiteren Fragen können Sie Mag. Unterrainer per E-Mail kontaktieren: <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>
+> Diese Seite ist eine Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit EPS Software und KavaDocs. Bei weiteren Fragen können Sie Mag. Unterrainer gerne auch per E-Mail kontaktieren: <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>
 
