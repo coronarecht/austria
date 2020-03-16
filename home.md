@@ -1,6 +1,6 @@
 # Coronavirus - Die Rechtliche Situation in Österreich
 
-Haben Sie rechtliche Fragen zur aktuellen Situation rund um den Coronavirus (COVID-19)? Beispielsweise welche Auswirkungen diverse Maßnahmen auf Sie oder Ihre Firma haben?
+Haben Sie rechtliche Fragen zur aktuellen Situation rund um den SARS-CoV2 Virus ("Coronavirus" bzw. COVID-19)? Beispielsweise welche Auswirkungen diverse Maßnahmen auf Sie oder Ihre Firma haben?
 
 Wir versuchen diese Fragen hier zu beantworten und rufen auch andere Rechtsanwälte und Juristen dazu auf, ihr Know-How hier kostenlos zur Verfuegung zu stellen.
 
