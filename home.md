@@ -12,4 +12,4 @@ Wir versuchen diese Fragen hier zu beantworten und rufen auch andere Rechtsanwä
 * [Muss ich momentan zur Arbeit gehen?](/privat/arbeitnehmer)
 * [Ich habe ein Pferd und muss dieses verpflegen. Darf ich zu meinem Pferd fahren?](/tierhaltung/pferde)
 * [Ich muss mit meinen Hund Gassi gehen. Darf ich das überhaupt noch?](/tierhaltung/haustiere)
-* Muss ich die Pacht/Miete für mein Geschäftslokal bezahlen, obwohl ich dieses auf Grund der aktuellen Situation nicht benützen kann?
+* [Muss ich die Pacht/Miete für mein Geschäftslokal bezahlen, obwohl ich dieses auf Grund der aktuellen Situation nicht benützen kann?](/firmen/pacht)
