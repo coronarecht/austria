@@ -19,5 +19,6 @@
     }
   ],
   "siteIcon": "_kavadocs/SiteIcon.png",
-  "customCssPath": "_kadadocs/corona.css"
+  "customCssPath": "_kadadocs/corona.css",
+  "logoPath": "_kavadocs/coronavirus.png"
 }
