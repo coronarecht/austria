@@ -1,0 +1,23 @@
+{
+  "title": "Coronarecht Austria",
+  "owner": "Michaela Unterrainer, EPS Software, KavaDocs",
+  "baseUrl": "http://austria.coronarecht.info/",
+  "version": "1.0",
+  "language": "de-AT",
+  "menu": [
+    {
+      "title": "Home",
+      "link": "/"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Home",
+      "slug": "/",
+      "link": "Home.md",
+      "isExpanded": true,
+    },
+    "siteIcon": "_meta/SiteIcon.png",
+    "customCssPath": "_meta/corona.css"
+  }
+}
