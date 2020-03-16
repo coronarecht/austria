@@ -5,10 +5,6 @@
   "version": "1.0",
   "language": "de-AT",
   "menu": [
-    {
-      "title": "Home",
-      "link": "/"
-    }
   ],
   "topics": [
     {
