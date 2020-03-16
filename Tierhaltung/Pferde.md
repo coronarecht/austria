@@ -1,12 +1,14 @@
 # Pferdehaltung in Einstellbetrieben
 
-Pferde können weiterhin täglich von ihren Besitzern oder Verantwortlichen (zB Reitbeteiligungen) betreut werden! Man sollte jedoch darauf achten, dass man nicht zuviel Zeit im Stall verbringen. In diesem Zusammenhang sollten die StallbesitzerInnen einen Zeitplan erstellen, damit alle EinstellerInnen die Möglichkeit haben, ihr Pferd einmal täglich adäquat zu versorgen. Die gesetzlichen Bestimmungen 
+Die gesetzlichen Bestimmungen sehen vor, dass eine Handlung zur Versorgung von Tieren erlaubt ist.
+
+Pferde können daher auch weiterhin täglich von ihren Besitzern bzw. verantwortlichen Personen (zB Reitbeteiligungen) betreut werden! Man sollte jedoch darauf achten, dass man nicht zuviel Zeit im Stall verbringt. In diesem Zusammenhang sollten Stallbesitzer einen Zeitplan erstellen, damit alle EinstellerInnen die Möglichkeit haben, ihr Pferd einmal täglich adäquat zu versorgen. 
 
 Die Stallbesucher sind dazu angehalten, den direkten zwischenmenschlichen Kontakt zu vermeiden (Mindestabstand 1 Meter) und die Hygienebestimmungen genauestens zu beachten. Zumindest ein Desinfektionsmittel sollte in jedem Stall zur Verfügung gestellt werden.
 
-Für die Anfahrt zum Stall sollte man Dokumente mitführen, die belegen können, dass man sich auf dem Weg zum Stall befindet und dort auch legitimen Taetigkeiten nachgeht. Denkbar ist z.B. ein Pferdepass, Einstellervertrag, oder Aehnliches. (Moeglichst viele Dokumente mitnehmen).
+Für den Fall einer polizeilichen Kontrolle auf dem Weg zum Reitstall empfehle ich, dass stets entsprechende Dokumente (Einstellervertrag, Pferdepass und ähnliches) zum Nachweis dafür mitgeführt werden, dass man sich auf dem Weg zum Pferd bzw. retour befindet.
 
-## Empfehlung des Tiroler Pferdesportverbandes, Präsident Mag. Klaus Haim:
+## Empfehlung des Präsidendten des Tiroler Pferdesportverbandes, Mag. Klaus Haim:
 
 > In Einstellbetrieben sollten nicht mehr als fünf BesucherInnen gleichzeitig anwesend sein.
 
