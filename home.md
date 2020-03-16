@@ -8,5 +8,7 @@ Wir versuchen diese Fragen hier zu beantworten und rufen auch andere Rechtsanwä
 
 ## Häufig gestellte Fragen
 
+* [Was mache ich mit meinen Mitarbeitern wenn ich fuer diese auf Grund der aktuellen Situation keine Arbeit habe?](/firmen/arbeitgeber)
+* [Muss ich momentan zur Arbeit gehen?](/privat/arbeitnehmer)
 * [Ich habe ein Pferd und muss dieses verpflegen. Darf ich zu meinem Pferd fahren?](/tierhaltung/pferde)
 * [Ich muss mit meinen Hund gassi gehen. Darf ich das ueberhaupt noch?](/tierhaltung/haustiere)
