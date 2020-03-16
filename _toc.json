@@ -18,6 +18,6 @@
       "isExpanded": true,
     }
   ],
-  "siteIcon": "_meta/SiteIcon.png",
-  "customCssPath": "_meta/corona.css"
+  "siteIcon": "_kavadocs/SiteIcon.png",
+  "customCssPath": "_kadadocs/corona.css"
 }
