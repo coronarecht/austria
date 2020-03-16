@@ -20,12 +20,12 @@
       "topics": [
         {
           "title": "Stalltierhaltung",
-          "slug": "Tierhaltung/Stall"
+          "slug": "Tierhaltung/Stall",
           "slug": "Tierhaltung/Stall.md"
         },
         {
           "title": "Haustierhaltung",
-          "slug": "Tierhaltung/Haustiere"
+          "slug": "Tierhaltung/Haustiere",
           "slug": "Tierhaltung/Haustiere.md"
         }
       ]
