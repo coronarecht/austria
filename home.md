@@ -6,3 +6,7 @@ Wir versuchen diese Fragen hier zu beantworten und rufen auch andere Rechtsanwä
 
 > Diese Seite ist eine Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit [EPS Software](http://www.eps-software.at) und [KavaDocs](https://www.kavadocs.com). Bei weiteren Fragen können Sie Mag. Unterrainer gerne auch per E-Mail kontaktieren: <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>
 
+## Häufig gestellte Fragen
+
+* [Ich habe ein Pferd und muss dieses verpflegen. Darf ich zu meinem Pferd fahren?](/tierhaltung/pferde)
+* [Ich muss mit meinen Hund gassi gehen. Darf ich das ueberhaupt noch?](/tierhaltung/haustiere)
