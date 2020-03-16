@@ -17,8 +17,5 @@
       "link": "Home.md",
       "isExpanded": true,
     }
-  ],
-  "siteIcon": "_kavadocs/SiteIcon.png",
-  "customCssPath": "_kadadocs/corona.css",
-  "logoPath": "_kavadocs/coronarechtlogo.png"
+  ]
 }
