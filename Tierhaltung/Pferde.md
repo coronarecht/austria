@@ -1,5 +1,7 @@
 # Pferdehaltung in Einstellbetrieben
 
+*Autor: Mag. Michaela Unterrainer*
+
 Die gesetzlichen Bestimmungen sehen vor, dass eine Handlung zur Versorgung von Tieren erlaubt ist.
 
 Pferde können daher auch weiterhin täglich von ihren Besitzern bzw. verantwortlichen Personen (zB Reitbeteiligungen) betreut werden! Man sollte jedoch darauf achten, dass man nicht zuviel Zeit im Stall verbringt. In diesem Zusammenhang sollten Stallbesitzer einen Zeitplan erstellen, damit alle EinstellerInnen die Möglichkeit haben, ihr Pferd einmal täglich adäquat zu versorgen. 
