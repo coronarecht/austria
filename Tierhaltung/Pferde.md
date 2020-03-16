@@ -20,4 +20,4 @@ Für den Fall einer polizeilichen Kontrolle auf dem Weg zum Reitstall empfehle i
 
 ## See also:
 
-[Auszug aus der Pferderevue zu diesem Thema](https://www.pferderevue.at/aktuelles/recht/2020/03/tallsperren--auszugsverbote--was-rund-ums-pferd-erlaubt-ist-und-.html?fbclid=IwAR3PQFtGF3KxNexnkhXRFH4pYel9jdC4LaSmj-VJaGN3q4qSucD6K-6ww-4https://www.pferderevue.at/aktuelles/recht/2020/03/tallsperren--auszugsverbote--was-rund-ums-pferd-erlaubt-ist-und-.html?fbclid=IwAR3PQFtGF3KxNexnkhXRFH4pYel9jdC4LaSmj-VJaGN3q4qSucD6K-6ww-4)
+* [Auszug aus der Pferderevue zu diesem Thema](https://www.pferderevue.at/aktuelles/recht/2020/03/tallsperren--auszugsverbote--was-rund-ums-pferd-erlaubt-ist-und-.html?fbclid=IwAR3PQFtGF3KxNexnkhXRFH4pYel9jdC4LaSmj-VJaGN3q4qSucD6K-6ww-4https://www.pferderevue.at/aktuelles/recht/2020/03/tallsperren--auszugsverbote--was-rund-ums-pferd-erlaubt-ist-und-.html?fbclid=IwAR3PQFtGF3KxNexnkhXRFH4pYel9jdC4LaSmj-VJaGN3q4qSucD6K-6ww-4)
