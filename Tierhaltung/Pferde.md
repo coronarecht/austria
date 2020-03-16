@@ -10,7 +10,7 @@ Die Stallbesucher sind dazu angehalten, den direkten zwischenmenschlichen Kontak
 
 Für den Fall einer polizeilichen Kontrolle auf dem Weg zum Reitstall empfehle ich, dass stets entsprechende Dokumente (Einstellervertrag, Pferdepass und ähnliches) zum Nachweis dafür mitgeführt werden, dass man sich auf dem Weg zum Pferd bzw. retour befindet.
 
-## Empfehlung des Präsidendten des Tiroler Pferdesportverbandes, Mag. Klaus Haim:
+## Empfehlung des Präsidenten des Tiroler Pferdesportverbandes, Mag. Klaus Haim:
 
 > In Einstellbetrieben sollten nicht mehr als fünf BesucherInnen gleichzeitig anwesend sein.
 
