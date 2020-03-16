@@ -14,18 +14,40 @@
       "isExpanded": true,
     },
     {
+      "title": "Fuer Privatpersonen",
+      "slug": "privat",
+      "topics": [
+        {
+          "title": "Fuer Arbeitnehmer",
+          "slug": "privat/arbeitnehmer",
+          "link": "Privat/Arbeitnehmer.md",
+        }
+      ]
+    },
+    {
+      "title": "Fuer Firmen",
+      "slug": "firmen",
+      "topics": [
+        {
+          "title": "Fuer Arbeitgeber",
+          "slug": "firmen/arbeitgeber",
+          "link": "Firmen/Arbeitgeber.md",
+        }
+      ]
+    },
+    {
       "title": "Tierhaltung",
       "slug": "Tierhaltung",
       "topics": [
         {
           "title": "Stalltierhaltung",
-          "slug": "Tierhaltung/Stall",
+          "slug": "tierhaltung/Stall",
           "link": "Tierhaltung/Stall.md",
           "seeAlso": "Haustierhaltung"
         },
         {
           "title": "Haustierhaltung",
-          "slug": "Tierhaltung/Haustiere",
+          "slug": "tierhaltung/Haustiere",
           "link": "Tierhaltung/Haustiere.md",
           "seeAlso": "Stalltierhaltung"
         }
