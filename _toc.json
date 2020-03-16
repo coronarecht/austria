@@ -40,8 +40,14 @@
       "slug": "Tierhaltung",
       "topics": [
         {
+          "title": "Pferdehaltung",
+          "slug": "tierhaltung/pferde",
+          "link": "Tierhaltung/Pferde.md",
+          "seeAlso": "Haustierhaltung"
+        },
+        {
           "title": "Stalltierhaltung",
-          "slug": "tierhaltung/Stall",
+          "slug": "tierhaltung/stall",
           "link": "Tierhaltung/Stall.md",
           "seeAlso": "Haustierhaltung"
         },
