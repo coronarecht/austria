@@ -31,12 +31,12 @@
         {
           "title": "Fuer Arbeitgeber",
           "slug": "firmen/arbeitgeber",
-          "link": "Firmen/Arbeitgeber.md",
+          "link": "firmen/Arbeitgeber.md",
         },
         {
           "title": "Pacht/Miete",
           "slug": "firmen/pacht",
-          "link": "Firmen/pacht.md",
+          "link": "firmen/pacht.md",
         }
       ]
     },
