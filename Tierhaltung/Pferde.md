@@ -17,3 +17,7 @@ Für den Fall einer polizeilichen Kontrolle auf dem Weg zum Reitstall empfehle i
 > Jede(r) Pferdebesitzer(in) oder Verantwortliche(r) sollte in Einstellungsbetrieben nicht mehr als eine Stunde täglich pro Pferd zur Versorgung, Bewegung und Verabreichung von Medikamenten verbringen.
 
 > Den StallbesitzerInnen wird empfohlen, eine Planung für die Besuchszeiten bei den Pferden vorzunehmen, sodass gewährleistet ist, dass sich zu keinem Zeitpunkt mehr als fünf Besucher gleichzeitig im Reitstall aufhalten.
+
+## See also:
+
+[Auszug aus der Pferderevue zu diesem Thema](https://www.pferderevue.at/aktuelles/recht/2020/03/tallsperren--auszugsverbote--was-rund-ums-pferd-erlaubt-ist-und-.html?fbclid=IwAR3PQFtGF3KxNexnkhXRFH4pYel9jdC4LaSmj-VJaGN3q4qSucD6K-6ww-4https://www.pferderevue.at/aktuelles/recht/2020/03/tallsperren--auszugsverbote--was-rund-ums-pferd-erlaubt-ist-und-.html?fbclid=IwAR3PQFtGF3KxNexnkhXRFH4pYel9jdC4LaSmj-VJaGN3q4qSucD6K-6ww-4)
