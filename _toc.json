@@ -1,68 +1,104 @@
 {
-  "title": "Coronarecht Austria",
-  "owner": "Michaela Unterrainer, EPS Software, KavaDocs",
-  "baseUrl": "http://austria.coronarecht.info/",
-  "version": "1.0",
-  "language": "de-AT",
-  "menu": [
-  ],
-  "topics": [
-    {
-      "title": "Home",
-      "slug": "/",
-      "link": "home.md",
-      "isExpanded": true,
-    },
-    {
-      "title": "Fuer Privatpersonen",
-      "slug": "privat",
-      "topics": [
-        {
-          "title": "Fuer Arbeitnehmer",
-          "slug": "privat/arbeitnehmer",
-          "link": "Privat/Arbeitnehmer.md",
-        }
-      ]
-    },
-    {
-      "title": "Fuer Firmen",
-      "slug": "firmen",
-      "topics": [
-        {
-          "title": "Fuer Arbeitgeber",
-          "slug": "firmen/arbeitgeber",
-          "link": "firmen/Arbeitgeber.md",
-        },
-        {
-          "title": "Pacht/Miete",
-          "slug": "firmen/pacht",
-          "link": "firmen/pacht.md",
-        }
-      ]
-    },
-    {
-      "title": "Tierhaltung",
-      "slug": "Tierhaltung",
-      "topics": [
-        {
-          "title": "Pferdehaltung",
-          "slug": "tierhaltung/pferde",
-          "link": "Tierhaltung/Pferde.md",
-          "seeAlso": "Haustierhaltung"
-        },
-        {
-          "title": "Stalltierhaltung",
-          "slug": "tierhaltung/stall",
-          "link": "Tierhaltung/Stall.md",
-          "seeAlso": "Haustierhaltung"
-        },
-        {
-          "title": "Haustierhaltung",
-          "slug": "tierhaltung/Haustiere",
-          "link": "Tierhaltung/Haustiere.md",
-          "seeAlso": "Stalltierhaltung"
-        }
-      ]
-    }
-  ]
+    "title": "Coronarecht Austria",
+    "owner": "Michaela Unterrainer, EPS Software, KavaDocs",
+    "baseUrl": "http://austria.coronarecht.info/",
+    "version": "1.0",
+    "language": "de-AT",
+    "menu": [
+    ],
+    "topics": [
+      {
+        "title": "Home",
+        "slug": "/",
+        "link": "home.md",
+        "isExpanded": true
+      },
+      {
+        "title": "Fuer Privatpersonen",
+        "slug": "privat",
+        "topics": [
+            {
+                "title": "Arbeit",
+                "slug": "privat/arbeit",
+                "link": "Privat/Arbeit.md"
+            },
+            {
+                "title": "Familie",
+                "slug": "privat/familie",
+                "link": "Privat/Familie.md"
+            },
+            {
+                "title": "Wohnen",
+                "slug": "privat/wohnen",
+                "link": "Privat/Wohnen.md"
+            },
+            {
+                "title": "Reisen",
+                "slug": "privat/reisen",
+                "link": "Privat/Reisen.md"
+            },
+            {
+                "title": "Haustiere",
+                "slug": "privat/haustiere",
+                "topics": [
+                    {
+                        "title": "Kleintiere (Hund, Katze,...)",
+                        "slug": "privat/haustiere/kleintiere",
+                        "link": "Privat/haustiere/Kleintiere.md"
+                    },
+                    {
+                        "title": "Pferde",
+                        "slug": "privat/haustiere/pferde",
+                        "link": "Privat/haustiere/Pferde.md"
+                    }
+                ]
+            },
+            {
+                "title": "Sonstiges",
+                "slug": "privat/sonstiges",
+                "link": "Privat/Sonstiges.md"
+            }
+        ]
+      },
+      {
+        "title": "Fuer Firmen",
+        "slug": "firmen",
+        "topics": [
+          {
+            "title": "Fuer Arbeitgeber",
+            "slug": "firmen/arbeitgeber",
+            "link": "firmen/Arbeitgeber.md"
+          },
+          {
+            "title": "Pacht/Miete",
+            "slug": "firmen/pacht",
+            "link": "firmen/pacht.md"
+          }
+        ]
+      },
+      {
+        "title": "Tierhaltung",
+        "slug": "Tierhaltung",
+        "topics": [
+          {
+            "title": "Pferdehaltung",
+            "slug": "tierhaltung/pferde",
+            "link": "Tierhaltung/Pferde.md",
+            "seeAlso": "Haustierhaltung"
+          },
+          {
+            "title": "Stalltierhaltung",
+            "slug": "tierhaltung/stall",
+            "link": "Tierhaltung/Stall.md",
+            "seeAlso": "Haustierhaltung"
+          },
+          {
+            "title": "Haustierhaltung",
+            "slug": "tierhaltung/Haustiere",
+            "link": "Tierhaltung/Haustiere.md",
+            "seeAlso": "Stalltierhaltung"
+          }
+        ]
+      }
+    ]
 }
