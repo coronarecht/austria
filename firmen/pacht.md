@@ -11,3 +11,7 @@ Gemäß § 1105 ABGB ist ein verhältnismäßiger Teil des Mietzinses zu erlasse
 >> Die WKO hat in diesem Zusammenhang eine Information zu Geschäftsraummieten entsandt:
  
 Die meisten Unternehmer haben Geschäftsräumlichkeiten, in denen sie ihrer Unternehmertätigkeit nachkommen. Bei behördlicher Einschränkung aufgrund der Corona-Beschränkungen haben diese Unternehmer folgende Möglichkeit:
+
+Die Wirtschaftskammer Österreich vertritt derzeit die Rechtsansicht, dass behördliche Einschränkungen aufgrund des Corona-Virus einen "außerordentlichen Zufall" darstellen, der dem "bedungenen Gebrauch" der Bestandsache entgegensteht.
+Nach der hier vertretenen Auffassung berechtigt ein solches Leistungshindernis den Geschäftsraummieter dazu, den Mietzins für die Dauer der Betriebseinschränkung zu reduzieren.
+(Link)
