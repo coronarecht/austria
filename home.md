@@ -2,11 +2,13 @@
 
 Wir haben es uns zum Ziel gesetzt, die allgemeinen Fragen der Bevölkerung aufzugreifen und gemeinsam mit anderen Rechtsanwälten, Richtern, Juristen sowie Sach- und Rechtskundigen, die allesamt ihr Know-How hier kostenlos zur Verfügung stellen, zu diskutieren und bestmöglich zu beantworten. 
 
-Haben Sie rechtliche Fragen zur aktuellen Situation rund um das SARS-CoV2 Virus ("Coronavirus" bzw. COVID-19), deren Beantwortung für die Rechtssicherheit der Allgemeinheit von Bedeutung ist? Insbesondere welche Auswirkungen diverse Maßnahmen auf Unternehmer und Privatpersonen haben? 
+Besuchen Sie unseren ausgearbeiteten Fragenkatalog, damit sie schnell und unkompliziert über eine allgemeine Antwort und nützliche Links verfügen können. Es gilt jedoch zu beachten, dass die aktuellen Entwicklungen fortlaufende Änderungen bzw. Adaptierungen von gesetzlichen Bestimmungen und Maßnahmen nach sich ziehen, sodass Ihnen jedenfalls die Einholung einer einzelfallbezogenen Rechtsauskunft empfohlen wird. 
 
-Senden Sie Ihre Frage einfach an <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>.
+Haben Sie über unseren Fragenkatalog hinausgehende Fragen zur aktuellen Rechtssituation rund um das SARS-CoV2 Virus ("Coronavirus" bzw. COVID-19), deren Beantwortung für die Rechtssicherheit der ÖsterreicherInnen von Bedeutung ist? Insbesondere welche Auswirkungen diverse Maßnahmen auf Unternehmer und Privatpersonen haben? 
 
-Es gilt zu beachten, dass die aktuellen Entwicklungen fortlaufende Änderungen bzw. Adaptierungen von gesetzlichen Bestimmungen und Maßnahmen nach sich ziehen, sodass die Einholung einer einzelfallbezogenen Rechtsauskunft jedenfalls empfohlen wird.
+Senden Sie Ihre Frage einfach an <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>. Wir entscheiden über die allgemeine Bedeutung Ihrer Frage und ergänzen bejahendenfalls unseren Katalog. Wir bitten um Verständnis, dass spezielle Einzelfälle ohne weitreichende Bedeutung für die Allgemeinheit hier nicht behandelt werden können.
+
+
 
 > Diese Seite ist eine Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit [EPS Software](http://www.eps-software.at) und [KavaDocs](https://www.kavadocs.com).
 
