@@ -10,10 +10,28 @@ Die Recherchen des Innsbrucker Zivilprofessors Univ.-Prof. Mag. Dr. Andreas Vonk
 
 Gemäß § 1105 ABGB ist ein verhältnismäßiger Teil des Mietzinses zu erlassen, wenn der Mieter trotz eines solchen Zufalles einen beschränkten Gebrauch des Mietgegenstandes behält. Dem Pächter gebührt ein Erlass an dem Pachtzinse, wenn durch außerordentliche Zufälle die Nutzung des nur auf ein Jahr gepachteten Gutes um mehr als die Hälfte des gewöhnlichen Ertrages gefallen sind. Der Verpächter ist so viel zu erlassen schuldig, als durch diesen Abfall an dem Pachtzinse mangelt.
 
-> Die WKO hat in diesem Zusammenhang eine Information zu Geschäftsraummieten entsandt:
+> Die WKO Tirol hat in diesem Zusammenhang eine Information zu Geschäftsraummieten entsandt:
  
-Die meisten Unternehmer haben Geschäftsräumlichkeiten, in denen sie ihrer Unternehmertätigkeit nachkommen. Bei behördlicher Einschränkung aufgrund der Corona-Beschränkungen haben diese Unternehmer folgende Möglichkeit:
 
-Die Wirtschaftskammer Österreich vertritt derzeit die Rechtsansicht, dass behördliche Einschränkungen aufgrund des Corona-Virus einen "außerordentlichen Zufall" darstellen, der dem "bedungenen Gebrauch" der Bestandsache entgegenstehe.
-Nach der hier vertretenen Auffassung berechtigt ein solches Leistungshindernis den Geschäftsraummieter dazu, den Mietzins für die Dauer der Betriebseinschränkung zu reduzieren.
-(Link)
+Information zu Geschäftsraummieten 
+ 
+Die meisten Unternehmen haben Geschäftsräumlichkeiten, in denen sie ihrer Unternehmenstätigkeit nachkommen. Bei behördlicher Einschränkung aufgrund der Corona-Beschränkungen haben Sie folgende Möglichkeit:
+
+Die Wirtschaftskammer Österreich vertritt derzeit die Rechtsansicht, dass behördliche Einschränkungen aufgrund des Corona-Virus einen „außerordentlichen Zufall“ darstellen, der dem „bedungenen Gebrauch“ der Bestandsache entgegensteht.
+
+Nach der hier vertretenen Auffassung berechtigt ein solches Leistungshindernis den Geschäftsraummieter dazu, den Mietzins für die Dauer der Betriebseinschränkung zu reduzieren. 
+ 
+Für diese Rechtsansicht spricht zunächst der Wortlaut von §§ 1104, 1105 ABGB, der Seuchenfälle adressiert. Hinzu kommen mehrere gerichtliche Entscheidungen, wonach die Unmöglichkeit der Nutzung des Bestandobjekts aufgrund bestimmter behördlicher Auflagen (z.B. Baufälligkeit) zur Einbehaltung des Mietzinses berechtigt. Die skizzierte Sichtweise führt außerdem dazu, dass Bestandverträge weitgehend so zu bewerten sind, wie sonstige unmöglich gewordene Verträge zwischen Unternehmern (siehe Link). 
+
+Im Einzelfall kann der konkrete Bestandvertrag eine abweichende rechtliche Bewertung erforderlich machen. Dies gilt insbesondere für Bestandverträge in Einkaufszentren sowie sonstige Pachtverträge, bei denen für Seuchenfälle gezielt vorgesorgt wurde.
+  
+________________________________________
+Wir informieren Sie laufend über aktuelle Entwicklungen (Hinweis: unsere Homepage wko.at/corona wird laufend aktualisiert, die Infoline 0590905-1111 ist sieben Tage die Woche für Sie im Einsatz). 
+________________________________________
+ 
+Nutzen Sie den Informationsvorsprung und die Services der Wirtschaftskammer. Die WK ist Ihr verlässlicher Partner – in schwierigen Zeiten erst recht.
+  
+ 
+
+
+
