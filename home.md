@@ -2,7 +2,7 @@
 
 Wir haben es uns zum Ziel gesetzt, die allgemeinen Fragen der Bevölkerung aufzugreifen und gemeinsam mit anderen Rechtsanwälten, Richtern, Juristen sowie Sach- und Rechtskundigen, die allesamt ihr Know-How hier kostenlos zur Verfügung stellen, zu diskutieren und bestmöglich zu beantworten. 
 
-Besuchen Sie unseren ausgearbeiteten Fragenkatalog, damit sie schnell und unkompliziert über eine allgemeine Antwort und nützliche Links verfügen können. Es gilt jedoch zu beachten, dass die aktuellen Entwicklungen fortlaufende Änderungen bzw. Adaptierungen von gesetzlichen Bestimmungen und Maßnahmen nach sich ziehen, sodass Ihnen jedenfalls die Einholung einer einzelfallbezogenen Rechtsauskunft empfohlen wird. 
+Besuchen Sie unseren ausgearbeiteten Fragenkatalog, damit sie schnell und unkompliziert über eine allgemeine Antwort und nützliche Links verfügen können. Es gilt jedoch zu beachten, dass die aktuellen Entwicklungen fortlaufende Änderungen bzw. Adaptierungen von gesetzlichen Bestimmungen und Maßnahmen nach sich ziehen, sodass Ihnen jedenfalls die Einholung einer einzelfallbezogenen Rechtsauskunft zusätzlich empfohlen wird. 
 
 Haben Sie über unseren Fragenkatalog hinausgehende Fragen zur aktuellen Rechtssituation rund um das SARS-CoV2 Virus ("Coronavirus" bzw. COVID-19), deren Beantwortung für die Rechtssicherheit der ÖsterreicherInnen von Bedeutung ist? Insbesondere welche Auswirkungen diverse Maßnahmen auf Unternehmer und Privatpersonen haben? 
 
