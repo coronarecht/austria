@@ -87,6 +87,16 @@
           "title": "Corona-Gesetze",
           "slug": "gesetze",
           "link": "gesetze/Allgemein.md"
+      },
+      {
+          "title": "Datenschutzerklaerung",
+          "slug": "datenschutzerklaerung",
+          "link": "datenschutzerklaerung.md"
+      },
+      {
+          "title": "Impressum",
+          "slug": "impressum",
+          "link": "impressum.md"
       }
     ]
 }
