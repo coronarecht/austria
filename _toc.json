@@ -16,6 +16,7 @@
       {
         "title": "Fuer Privatpersonen",
         "slug": "privat",
+        "isExpanded": true,
         "topics": [
             {
                 "title": "Arbeit",
@@ -61,44 +62,31 @@
         ]
       },
       {
-        "title": "Fuer Firmen",
+        "title": "Fuer Unternehmer",
         "slug": "firmen",
+        "isExpanded": true,
         "topics": [
           {
-            "title": "Fuer Arbeitgeber",
-            "slug": "firmen/arbeitgeber",
-            "link": "firmen/Arbeitgeber.md"
+            "title": "Arbeitsrecht",
+            "slug": "firmen/arbeitsrecht",
+            "link": "firmen/Arbeitsrecht.md"
           },
           {
-            "title": "Pacht/Miete",
-            "slug": "firmen/pacht",
-            "link": "firmen/pacht.md"
+            "title": "Mietrecht",
+            "slug": "firmen/mietrecht",
+            "link": "firmen/Mietrecht.md"
+          },
+          {
+            "title": "Sonstiges",
+            "slug": "firmen/sonstiges",
+            "link": "firmen/Sonstiges.md"
           }
         ]
       },
       {
-        "title": "Tierhaltung",
-        "slug": "Tierhaltung",
-        "topics": [
-          {
-            "title": "Pferdehaltung",
-            "slug": "tierhaltung/pferde",
-            "link": "Tierhaltung/Pferde.md",
-            "seeAlso": "Haustierhaltung"
-          },
-          {
-            "title": "Stalltierhaltung",
-            "slug": "tierhaltung/stall",
-            "link": "Tierhaltung/Stall.md",
-            "seeAlso": "Haustierhaltung"
-          },
-          {
-            "title": "Haustierhaltung",
-            "slug": "tierhaltung/Haustiere",
-            "link": "Tierhaltung/Haustiere.md",
-            "seeAlso": "Stalltierhaltung"
-          }
-        ]
+          "title": "Corona-Gesetze",
+          "slug": "gesetze",
+          "link": "gesetze/Allgemein.md"
       }
     ]
 }
