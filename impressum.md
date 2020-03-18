@@ -5,10 +5,10 @@ Diese Seite ist eine gemeinnuetzige Seite die in Kooperation von EPS Software Co
 
 ## Contact
 
-**EPS Software Corp.**
-6605 Cypresswood. Dr.
-Suite 425
-Spring, TX 77379
+**EPS Software Corp.**<br/>
+6605 Cypresswood. Dr.<br/>
+Suite 425<br/>
+Spring, TX 77379<br/>
 United States of America
 
 www.eps-software.com
