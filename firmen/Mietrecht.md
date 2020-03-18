@@ -26,7 +26,7 @@ Für diese Rechtsansicht spricht zunächst der Wortlaut von [§§ 1104, 1105 ABG
 Im Einzelfall kann der konkrete Bestandvertrag eine abweichende rechtliche Bewertung erforderlich machen. Dies gilt insbesondere für Bestandverträge in Einkaufszentren sowie sonstige Pachtverträge, bei denen für Seuchenfälle gezielt vorgesorgt wurde.
   
 ________________________________________
-Wir informieren Sie laufend über aktuelle Entwicklungen (Hinweis: unsere Homepage wko.at/corona wird laufend aktualisiert, die Infoline 0590905-1111 ist sieben Tage die Woche für Sie im Einsatz). 
+Wir informieren Sie laufend über aktuelle Entwicklungen (Hinweis: unsere Homepage [wko.at/corona](https://www.wko.at/service/aussenwirtschaft/coronavirus-wirtschaftskammer-als-anlaufstelle.html?shorturl=wkoat_corona) wird laufend aktualisiert, die Infoline 0590905-1111 ist sieben Tage die Woche für Sie im Einsatz). 
 ________________________________________
  
 Nutzen Sie den Informationsvorsprung und die Services der Wirtschaftskammer. Die WK ist Ihr verlässlicher Partner – in schwierigen Zeiten erst recht.
