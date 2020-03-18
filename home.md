@@ -9,7 +9,7 @@ Haben Sie über unseren Fragenkatalog hinausgehende Fragen zur aktuellen Rechtss
 Senden Sie Ihre Frage einfach an <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>. Wir entscheiden über die allgemeine Bedeutung Ihrer Frage und ergänzen gegebenenfalls unseren Katalog. Wir bitten um Verständnis, dass spezielle Fragen zu Einzelfällen ohne weitreichende Bedeutung für einen größeren Personenkreis hier nicht behandelt werden können.
 
 
-> Diese Seite ist eine gemeinnützige Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit [EPS Software Corp.](http://www.eps-software.com) und [KavaDocs](https://www.kavadocs.com). 
+> Diese Seite ist eine gemeinnützige Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit [EPS Software](http://www.eps-software.at) und [KavaDocs](https://www.kavadocs.com). Alle Beiträge auf dieser Website dienen lediglich allgemeinen Informationszwecken und stellen keine Rechtsauskunft dar. Die Beiträge wurden sorgfältig anhand des aktuellen Kenntnisstandes ausgearbeitet und sollen einen Überblick über die allgemeine Situation verschaffen. Ebenso wurden die Links zu Websites Dritter sorgfältig ausgewählt. Es wird ausdrücklich darauf hingewiesen, dass die Beiträge eine konkrete Rechtsberatung nicht ersetzen können und sollen. Aus den genannten Gründen übernehmen wir keine Haftung für Richtigkeit, Fehlerlosigkeit und Aktualität der angebotenen Informationen.
 
 ## Häufig gestellte Fragen
 
