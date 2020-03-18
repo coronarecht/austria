@@ -6,16 +6,21 @@ Besuchen Sie unseren ausgearbeiteten Fragenkatalog, damit sie schnell und unkomp
 
 Haben Sie über unseren Fragenkatalog hinausgehende Fragen zur aktuellen Rechtssituation rund um das SARS-CoV2 Virus ("Coronavirus" bzw. COVID-19), deren Beantwortung für die Rechtssicherheit der ÖsterreicherInnen von Bedeutung ist? Insbesondere welche Auswirkungen diverse Maßnahmen auf Unternehmer und Privatpersonen haben? 
 
-Senden Sie Ihre Frage einfach an <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>. Wir entscheiden über die allgemeine Bedeutung Ihrer Frage und ergänzen bejahendenfalls unseren Katalog. Wir bitten um Verständnis, dass spezielle Einzelfälle ohne weitreichende Bedeutung für die Allgemeinheit hier nicht behandelt werden können.
+Senden Sie Ihre Frage einfach an <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>. Wir entscheiden über die allgemeine Bedeutung Ihrer Frage und ergänzen bejahendenfalls unseren Katalog. Wir bitten um Verständnis, dass spezielle Fragen für Einzelfälle ohne weitreichende Bedeutung für die Allgemeinheit hier nicht behandelt werden können.
 
 
-
-> Diese Seite ist eine Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit [EPS Software](http://www.eps-software.at) und [KavaDocs](https://www.kavadocs.com).
+> Diese Seite ist eine gemeinnützige Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit [EPS Software](http://www.eps-software.at) und [KavaDocs](https://www.kavadocs.com).
 
 ## Häufig gestellte Fragen
 
-* [Was mache ich mit meinen Mitarbeitern, wenn ich für diese auf Grund der aktuellen Situation keine Arbeit habe?](/firmen/arbeitsrecht)
-* [Muss ich momentan zur Arbeit gehen?](/privat/arbeit)
+* [Muss ich die Pacht/Miete für mein Geschäftslokal bezahlen, obwohl ich dieses auf Grund der aktuellen Situation nicht benützen kann?](/firmen/mietrecht)
 * [Ich habe ein Pferd und muss dieses verpflegen. Darf ich zu meinem Pferd fahren?](/privat/haustiere/pferde)
 * [Ich muss mit meinen Hund Gassi gehen. Darf ich das überhaupt noch?](/privat/haustiere/kleintiere)
-* [Muss ich die Pacht/Miete für mein Geschäftslokal bezahlen, obwohl ich dieses auf Grund der aktuellen Situation nicht benützen kann?](/firmen/mietrecht)
+* [Muss ich in der momentanen Situation zur Arbeit gehen?](/privat/arbeit)
+* [Was mache ich mit meinen Mitarbeitern, wenn ich für diese auf Grund der aktuellen Situation keine Arbeit habe?](/firmen/arbeitsrecht)
+* In welchem Ausmaß darf ich derzeit als Selbständige(r) arbeiten?
+* Was passiert mit meiner Reisebuchung?
+* Ist auch das Kontaktrecht zu meinem Kind von den aktuellen Beschränkungen betroffen?
+* Muss ich die Kosten für den privaten Kindergarten überhaupt bezahlen, wenn mein Kind anhand der Empfehlungen zu Hause bleibt?
+* Was bedeutet Kurzarbeit?
+
