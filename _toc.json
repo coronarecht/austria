@@ -21,22 +21,22 @@
             {
                 "title": "Arbeit",
                 "slug": "privat/arbeit",
-                "link": "Privat/Arbeit.md"
+                "link": "privat/Arbeit.md"
             },
             {
                 "title": "Familie",
                 "slug": "privat/familie",
-                "link": "Privat/Familie.md"
+                "link": "privat/Familie.md"
             },
             {
                 "title": "Wohnen",
                 "slug": "privat/wohnen",
-                "link": "Privat/Wohnen.md"
+                "link": "privat/Wohnen.md"
             },
             {
                 "title": "Reisen",
                 "slug": "privat/reisen",
-                "link": "Privat/Reisen.md"
+                "link": "privat/Reisen.md"
             },
             {
                 "title": "Haustiere",
@@ -45,19 +45,19 @@
                     {
                         "title": "Kleintiere (Hund, Katze,...)",
                         "slug": "privat/haustiere/kleintiere",
-                        "link": "Privat/haustiere/Kleintiere.md"
+                        "link": "privat/haustiere/Kleintiere.md"
                     },
                     {
                         "title": "Pferde",
                         "slug": "privat/haustiere/pferde",
-                        "link": "Privat/haustiere/Pferde.md"
+                        "link": "privat/haustiere/Pferde.md"
                     }
                 ]
             },
             {
                 "title": "Sonstiges",
                 "slug": "privat/sonstiges",
-                "link": "Privat/Sonstiges.md"
+                "link": "privat/Sonstiges.md"
             }
         ]
       },
