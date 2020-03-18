@@ -31,4 +31,4 @@ ________________________________________
  
 Nutzen Sie den Informationsvorsprung und die Services der Wirtschaftskammer. Die WK ist Ihr verlässlicher Partner – in schwierigen Zeiten erst recht."
   
- 
+Über die Höhe einer Mietzinsreduktion lässt sich natürlich trefflich streiten. Nachdem die Unbenutzbarkeit des Mietgegenstandes auf keine der Vertragsparteien, sondern auf eine hoheitliche Verfügung zurückzuführen ist, erscheint mE eine Reduktion im Ausmaß von zumindest 50 % als rechtfertigbar - je nach Einzelfall und Billigkeit. 
