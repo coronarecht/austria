@@ -1,6 +1,6 @@
 # Coronavirus - Die rechtliche Situation in Österreich
 
-Wir haben es uns zum Ziel gesetzt, die allgemeinen Fragen der Bevölkerung aufzugreifen und gemeinsam mit anderen Rechtsanwälten, Richtern, Juristen sowie Sach- und Rechtskundigen, die allesamt ihr Know-How hier kostenlos zur Verfügung stellen, zu diskutieren und bestmöglich zu beantworten. 
+Wir haben es uns zum Ziel gesetzt, die allgemeinen Fragen der Bevölkerung aufzugreifen und gemeinsam mit anderen Rechtsanwälten, Richtern, Juristen sowie Sach- und Rechtskundigen, die allesamt ihr Know-How hier kostenlos zur Verfügung stellen, zu diskutieren und bestmöglich zu beantworten. Aus Gründen der leichteren Lesbarkeit werden sämtliche personenbezogenen Bezeichnungen geschlechtsneutral formuliert.
 
 Besuchen Sie unseren ausgearbeiteten Fragenkatalog, damit Sie schnell und unkompliziert über eine allgemeine Antwort und nützliche Links verfügen können. Es gilt jedoch zu beachten, dass die aktuellen Entwicklungen fortlaufende Änderungen bzw. Adaptierungen von gesetzlichen Bestimmungen und Maßnahmen nach sich ziehen, sodass Ihnen jedenfalls die Einholung einer einzelfallbezogenen Rechtsauskunft zusätzlich empfohlen wird. 
 
