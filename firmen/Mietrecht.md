@@ -1,5 +1,7 @@
 # Wegfall der Zinspflicht
 
+*Autor: Mag. Michaela Unterrainer*
+
 Die Bestimmung des § 1104 ABGB sieht vor, dass kein Miet- oder Pachtzins zu entrichten ist, wenn das Bestandobjekt wegen außerordentlicher Zufälle (diebezüglich nennt das Gesetz unter anderem Beispiele wie Feuer, Krieg oder Seuche) gar nicht gebraucht oder benutzt werden kann.
 
 Nachdem die zur Eindämmung des Coronavirus gesetzlich eingeführten Maßnahmen (insb. Geschäftsschließungen) als "hoheitliche Verfügung" weder in die Sphäre des Mieters, noch in jene des Vermieters fallen, fällt die Zinspflicht weg; aber auch die Pflicht des Vermieters, das Bestandobjekt wiederherzustellen.
