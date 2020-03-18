@@ -8,8 +8,8 @@ Wir sind bemüht, diese Fragen hier zu beantworten und rufen auch andere Rechtsa
 
 ## Häufig gestellte Fragen
 
-* [Was mache ich mit meinen Mitarbeitern, wenn ich für diese auf Grund der aktuellen Situation keine Arbeit habe?](/firmen/arbeitgeber)
-* [Muss ich momentan zur Arbeit gehen?](/privat/arbeitnehmer)
-* [Ich habe ein Pferd und muss dieses verpflegen. Darf ich zu meinem Pferd fahren?](/tierhaltung/pferde)
-* [Ich muss mit meinen Hund Gassi gehen. Darf ich das überhaupt noch?](/tierhaltung/haustiere)
-* [Muss ich die Pacht/Miete für mein Geschäftslokal bezahlen, obwohl ich dieses auf Grund der aktuellen Situation nicht benützen kann?](/firmen/pacht)
+* [Was mache ich mit meinen Mitarbeitern, wenn ich für diese auf Grund der aktuellen Situation keine Arbeit habe?](/firmen/arbeitsrecht)
+* [Muss ich momentan zur Arbeit gehen?](/privat/arbeit)
+* [Ich habe ein Pferd und muss dieses verpflegen. Darf ich zu meinem Pferd fahren?](/privat/haustiere/pferde)
+* [Ich muss mit meinen Hund Gassi gehen. Darf ich das überhaupt noch?](/privat/haustiere/kleintiere)
+* [Muss ich die Pacht/Miete für mein Geschäftslokal bezahlen, obwohl ich dieses auf Grund der aktuellen Situation nicht benützen kann?](/firmen/mietrecht)
