@@ -10,10 +10,10 @@ Die Recherchen des Innsbrucker Zivilprofessors Univ.-Prof. Mag. Dr. Andreas Vonk
 
 Gemäß § 1105 ABGB ist ein verhältnismäßiger Teil des Mietzinses zu erlassen, wenn der Mieter trotz eines solchen Zufalles einen beschränkten Gebrauch des Mietgegenstandes behält. Dem Pächter gebührt ein Erlass an dem Pachtzinse, wenn durch außerordentliche Zufälle die Nutzung des nur auf ein Jahr gepachteten Gutes um mehr als die Hälfte des gewöhnlichen Ertrages gefallen sind. Der Verpächter ist so viel zu erlassen schuldig, als durch diesen Abfall an dem Pachtzinse mangelt.
 
-> Die WKO Tirol hat in diesem Zusammenhang eine Information zu Geschäftsraummieten entsandt:
- 
 
-Information zu Geschäftsraummieten 
+> Die Wirtschaftskammer hat in diesem Zusammenhang eine Information zu Geschäftsraummieten entsandt:
+
+"Information zu Geschäftsraummieten 
  
 Die meisten Unternehmen haben Geschäftsräumlichkeiten, in denen sie ihrer Unternehmenstätigkeit nachkommen. Bei behördlicher Einschränkung aufgrund der Corona-Beschränkungen haben Sie folgende Möglichkeit:
 
@@ -29,9 +29,6 @@ ________________________________________
 Wir informieren Sie laufend über aktuelle Entwicklungen (Hinweis: unsere Homepage [wko.at/corona](https://www.wko.at/service/aussenwirtschaft/coronavirus-wirtschaftskammer-als-anlaufstelle.html?shorturl=wkoat_corona) wird laufend aktualisiert, die Infoline 0590905-1111 ist sieben Tage die Woche für Sie im Einsatz). 
 ________________________________________
  
-Nutzen Sie den Informationsvorsprung und die Services der Wirtschaftskammer. Die WK ist Ihr verlässlicher Partner – in schwierigen Zeiten erst recht.
+Nutzen Sie den Informationsvorsprung und die Services der Wirtschaftskammer. Die WK ist Ihr verlässlicher Partner – in schwierigen Zeiten erst recht."
   
  
-
-
-
