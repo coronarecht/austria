@@ -14,7 +14,7 @@
         "isExpanded": true
       },
       {
-        "title": "Fuer Privatpersonen",
+        "title": "Für Privatpersonen",
         "slug": "privat",
         "isExpanded": true,
         "topics": [
@@ -62,7 +62,7 @@
         ]
       },
       {
-        "title": "Fuer Unternehmer",
+        "title": "Für Unternehmer",
         "slug": "firmen",
         "isExpanded": true,
         "topics": [
