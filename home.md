@@ -6,7 +6,7 @@ Besuchen Sie unseren ausgearbeiteten Fragenkatalog, damit sie schnell und unkomp
 
 Haben Sie über unseren Fragenkatalog hinausgehende Fragen zur aktuellen Rechtssituation rund um das SARS-CoV2 Virus ("Coronavirus" bzw. COVID-19), deren Beantwortung für die Rechtssicherheit der ÖsterreicherInnen von Bedeutung ist? Insbesondere welche Auswirkungen diverse Maßnahmen auf Unternehmer und Privatpersonen haben? 
 
-Senden Sie Ihre Frage einfach an <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>. Wir entscheiden über die allgemeine Bedeutung Ihrer Frage und ergänzen bejahendenfalls unseren Katalog. Wir bitten um Verständnis, dass spezielle Fragen für Einzelfälle ohne weitreichende Bedeutung für die Allgemeinheit hier nicht behandelt werden können.
+Senden Sie Ihre Frage einfach an <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>. Wir entscheiden über die allgemeine Bedeutung Ihrer Frage und ergänzen bejahendenfalls unseren Katalog. Wir bitten um Verständnis, dass spezielle Fragen zu Einzelfällen ohne weitreichende Bedeutung für einen größeren Personenkreis hier nicht behandelt werden können.
 
 
 > Diese Seite ist eine gemeinnützige Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit [EPS Software](http://www.eps-software.at) und [KavaDocs](https://www.kavadocs.com).
