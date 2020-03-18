@@ -1,12 +1,14 @@
-# Coronavirus - Die Rechtliche Situation in Österreich
+# Coronavirus - Die rechtliche Situation in Österreich
 
-Haben Sie rechtliche Fragen zur aktuellen Situation rund um das SARS-CoV2 Virus ("Coronavirus" bzw. COVID-19)? Insbesondere welche Auswirkungen diverse Maßnahmen auf Sie oder Ihre Firma haben?
+Haben Sie rechtliche Fragen zur aktuellen Situation rund um das SARS-CoV2 Virus ("Coronavirus" bzw. COVID-19), deren Beantwortung für die Rechtssicherheit der Allgemeinheit von Bedeutung ist? Insbesondere welche Auswirkungen diverse Maßnahmen auf Unternehmer und Privatpersonen haben? 
 
-Wir haben es uns zum Ziel gesetzt, die aktuellen Fragen der Bevölkerung aufzugreifen und gemeinsam mit anderen Rechtsanwälten, Richtern, Juristen sowie Sach- und Rechtskundigen, die allesamt ihr Know-How hier kostenlos zur Verfügung stellen, zu diskutieren und bestmöglich zu beantworten.
+Senden Sie Ihre Frage einfach an <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>.
+
+Wir haben es uns zum Ziel gesetzt, die allgemeinen Fragen der Bevölkerung aufzugreifen und gemeinsam mit anderen Rechtsanwälten, Richtern, Juristen sowie Sach- und Rechtskundigen, die allesamt ihr Know-How hier kostenlos zur Verfügung stellen, zu diskutieren und bestmöglich zu beantworten.
 
 Es gilt zu beachten, dass die aktuellen Entwicklungen fortlaufende Änderungen bzw. Adaptierungen von gesetzlichen Bestimmungen und Maßnahmen nach sich ziehen, sodass die Einholung einer einzelfallbezogenen Rechtsauskunft jedenfalls empfohlen wird.
 
-> Diese Seite ist eine Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit [EPS Software](http://www.eps-software.at) und [KavaDocs](https://www.kavadocs.com). Bei weiteren Fragen können Sie Mag. Unterrainer gerne auch per E-Mail kontaktieren: <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>
+> Diese Seite ist eine Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit [EPS Software](http://www.eps-software.at) und [KavaDocs](https://www.kavadocs.com).
 
 ## Häufig gestellte Fragen
 
