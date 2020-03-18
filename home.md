@@ -1,8 +1,10 @@
 # Coronavirus - Die Rechtliche Situation in Österreich
 
-Haben Sie rechtliche Fragen zur aktuellen Situation rund um den SARS-CoV2 Virus ("Coronavirus" bzw. COVID-19)? Beispielsweise welche Auswirkungen diverse Maßnahmen auf Sie oder Ihre Firma haben?
+Haben Sie rechtliche Fragen zur aktuellen Situation rund um das SARS-CoV2 Virus ("Coronavirus" bzw. COVID-19)? Insbesondere welche Auswirkungen diverse Maßnahmen auf Sie oder Ihre Firma haben?
 
-Wir sind bemüht, diese Fragen hier zu beantworten und rufen auch andere Rechtsanwälte, Juristen, Sach- und Rechtskundige dazu auf, ihr Know-How hier kostenlos zur Verfügung zu stellen.
+Wir haben es uns zum Ziel gesetzt, die aktuellen Fragen der Bevölkerung aufzugreifen und gemeinsam mit anderen Rechtsanwälten, Richtern, Juristen sowie Sach- und Rechtskundigen, die allesamt ihr Know-How hier kostenlos zur Verfügung stellen, zu diskutieren und bestmöglich zu beantworten.
+
+Es gilt zu beachten, dass die aktuellen Entwicklungen fortlaufende Änderungen bzw. Adaptierungen von gesetzlichen Bestimmungen und Maßnahmen nach sich ziehen, sodass die Einholung einer einzelfallbezogenen Rechtsauskunft jedenfalls empfohlen wird.
 
 > Diese Seite ist eine Initiative von Rechtsanwältin Mag. Michaela Unterrainer in Kooperation mit [EPS Software](http://www.eps-software.at) und [KavaDocs](https://www.kavadocs.com). Bei weiteren Fragen können Sie Mag. Unterrainer gerne auch per E-Mail kontaktieren: <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>
 
