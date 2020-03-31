@@ -4,7 +4,7 @@ Wir haben es uns zum Ziel gesetzt, die allgemeinen Fragen der Bevölkerung aufzu
 
 Besuchen Sie unseren ausgearbeiteten Fragenkatalog, damit Sie schnell und unkompliziert über eine allgemeine Antwort und nützliche Links verfügen können. Es gilt jedoch zu beachten, dass die aktuellen Entwicklungen fortlaufende Änderungen bzw. Adaptierungen von gesetzlichen Bestimmungen und Maßnahmen nach sich ziehen, sodass Ihnen jedenfalls die Einholung einer einzelfallbezogenen Rechtsauskunft zusätzlich empfohlen wird. 
 
-Haben Sie über unseren Fragenkatalog hinausgehende Fragen zur aktuellen Rechtssituation rund um das SARS-CoV2 Virus ("Coronavirus" bzw. die von diesem Virus ausgeloeste COVID-19 Lungenerkrankung), deren Beantwortung für die Rechtssicherheit der Österreicher von Bedeutung ist? Insbesondere, welche Auswirkungen diverse Maßnahmen auf Unternehmer und Privatpersonen haben? 
+Haben Sie über unseren Fragenkatalog hinausgehende Fragen zur aktuellen Rechtssituation rund um das SARS-CoV2 Virus ("Coronavirus" bzw. die von diesem Virus ausgelöste COVID-19 Lungenerkrankung), deren Beantwortung für die Rechtssicherheit der Österreicher von Bedeutung ist? Insbesondere, welche Auswirkungen diverse Maßnahmen auf Unternehmer und Privatpersonen haben? 
 
 Senden Sie Ihre Frage einfach an <a href="michaela@anwalt-unterrainer.com">michaela@anwalt-unterrainer.com</a>. Wir entscheiden über die allgemeine Bedeutung Ihrer Frage und ergänzen gegebenenfalls unseren Katalog. Wir bitten um Verständnis, dass spezielle Fragen zu Einzelfällen ohne weitreichende Bedeutung für einen größeren Personenkreis hier nicht behandelt werden können.
 
