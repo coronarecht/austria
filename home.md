@@ -18,9 +18,9 @@ Senden Sie Ihre Frage einfach an <a href="michaela@anwalt-unterrainer.com">micha
 * [Ich muss mit meinem Hund Gassi gehen. Darf ich das überhaupt noch?](/privat/haustiere/kleintiere)
 * [Muss ich in der momentanen Situation zur Arbeit gehen?](/privat/arbeit)
 * [Was mache ich mit meinen Mitarbeitern, wenn ich für diese auf Grund der aktuellen Situation keine Arbeit habe?](/firmen/arbeitsrecht)
-* In welchem Ausmaß darf ich derzeit als Selbständiger arbeiten?
-* Was passiert mit meiner Reisebuchung?
-* Ist auch das Kontaktrecht zu meinem Kind von den aktuellen Beschränkungen betroffen?
-* Muss ich die Kosten für den privaten Kindergarten überhaupt bezahlen, wenn mein Kind aufgrund der Empfehlungen zu Hause bleibt?
-* Was bedeutet Kurzarbeit?
+* [In welchem Ausmaß darf ich derzeit als Selbständiger arbeiten?](/firmen/arbeitsrecht)
+* [Was passiert mit meiner Reisebuchung?](/privat/reisen)
+* [Ist auch das Kontaktrecht zu meinem Kind von den aktuellen Beschränkungen betroffen?](/privat/familie)
+* [Muss ich die Kosten für den privaten Kindergarten überhaupt bezahlen, wenn mein Kind aufgrund der Empfehlungen zu Hause bleibt?](/privat/familie)
+* [Was bedeutet Kurzarbeit?](firmen/arbeitsrecht)
 
